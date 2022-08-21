@@ -1,6 +1,5 @@
 # How To Review UI Kit Component
-
-> Below is a checklist that organize specific criteria to validate across categories like composition, properties, behaviors and content.
+Below is a checklist that organize specific criteria to validate across categories like composition, properties, behaviors and content.
 
 1. Metadata
 2. Composition — Base, slots, and nested components
@@ -56,8 +55,7 @@ Item | Type | Description
 4.1 | **Name** | Are 
 4.2 | **Name** | Are 
 
---- 
-
 [^1]: My reference.
 [^2]: Every new line should be prefixed with 2 spaces.  
   This allows you to have a footnote with multiple lines.
+[^3]: My reference.
