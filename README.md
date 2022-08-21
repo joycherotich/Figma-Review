@@ -18,8 +18,8 @@
 ### 1. Metadata
 As a designer, I can insert a component that’s precisely named and accurately described.[^1]
 
-Item | Type | Description
-:--- | --- | ---
+Item No. | Type | Description
+:--- |:--- |:---
 &#x2610; 1.1 | **Name** | Is it named consistently with the code?
 &#x2610; 1.2 | **Description** | Is it described sufficiently, such as with a component introduction from Aether documentation?
 &#x2610; 1.3 | **Status** | Is status up-to-date, such as stability (Soon-to-be-removed, Experimental, Beta or …)?
