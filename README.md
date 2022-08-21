@@ -20,10 +20,10 @@ As a designer, I can insert a component that’s precisely named and accurately 
 
 Item | Type | Description
 --- | --- | ---
-1.1 | **Name** | Is it named consistently with the code?
-1.2 | **Description** | Is it described sufficiently, such as with a component introduction from Aether documentation?
-1.3 | **Status** | Is status up-to-date, such as stability (Soon-to-be-removed, Experimental, Beta or …)?
-1.4 | **Page Title Links** | Is linked correctly with the Usage Guidelines and Code Documentation?
+⬜️ 1.1 | **Name** | Is it named consistently with the code?
+⬜️ 1.2 | **Description** | Is it described sufficiently, such as with a component introduction from Aether documentation?
+⬜️ 1.3 | **Status** | Is status up-to-date, such as stability (Soon-to-be-removed, Experimental, Beta or …)?
+⬜️ 1.4 | **Page Title Links** | Is linked correctly with the Usage Guidelines and Code Documentation?
 
 
 ### 2. Anatomy
