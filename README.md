@@ -1,4 +1,4 @@
-# How To Review Aether UI Kit Component
+# How To Review UI Kit Component
 
 > Below is a checklist that organize specific criteria to validate across categories like composition, properties, behaviors and content.
 
@@ -20,10 +20,10 @@ As a designer, I can insert a component that’s precisely named and accurately 
 
 Item | Type | Description
 --- | --- | ---
-- [ ] 1.1 | `Name` | Is it named consistently with the code?
-- [ ] 1.2 | `Description` | Is it described sufficiently, such as with a component introduction from Aether documentation?
-- [ ] 1.3 | `Status` | Is status up-to-date, such as stability (Soon-to-be-removed, Experimental, Beta or …)?
-- [ ] 1.4 | `Page Title Links` | Is linked correctly with the Usage Guidelines and Code Documentation?
+<ul><li>- [ ] 1.1</li></ul> | `Name` | Is it named consistently with the code?
+<ul><li>- [ ] 1.2</li></ul> | `Description` | Is it described sufficiently, such as with a component introduction from Aether documentation?
+<ul><li>- [ ] 1.3</li></ul> | `Status` | Is status up-to-date, such as stability (Soon-to-be-removed, Experimental, Beta or …)?
+<ul><li>- [ ] 1.4</li></ul> | `Page Title Links` | Is linked correctly with the Usage Guidelines and Code Documentation?
 
 
 ### 2. Anatomy
