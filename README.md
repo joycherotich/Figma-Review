@@ -1,5 +1,5 @@
 # Design Review Checklist to Perform Effective Branch Reviews in Figma
-Below is a checklist that organize specific criteria to validate across categories like composition, variants, properties, behaviors and content.
+Below is a checklist template to validate across categories like composition, properties, and behaviors.
 
 
 ### 1. Metadata
