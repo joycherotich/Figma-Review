@@ -1,17 +1,5 @@
-# How To Review UI Kit Component
-Below is a checklist that organize specific criteria to validate across categories like composition, properties, behaviors and content.
-
-1. Metadata
-2. Composition — Base, slots, and nested components
-3. Anatomy
-4. Color styles
-5. Text styles
-6. Content
-7. Spacing
-8. Layout
-9. Properties
-10. Composition—Base, sub, and nested components
-11. Behaviors
+# Design Review Checklist to Perform Effective Branch Reviews in Figma
+Below is a checklist that organize specific criteria to validate across categories like composition, variants, properties, behaviors and content.
 
 
 ### 1. Metadata
@@ -20,42 +8,81 @@ As a designer, I can insert a component that’s precisely named and accurately 
 Item | Type | Description
 :--- |:--- |:---
 1.1 | **Name** | Is it named consistently with the code?
-1.2 | **Description** | Is it described sufficiently, such as with a component introduction from Aether documentation?
+1.2 | **Description** | Is it described sufficiently, such as with a component introduction from the documentation?
 1.3 | **Status** | Is status up-to-date, such as stability (Soon-to-be-removed, Experimental, Beta or …)?
-1.4 | **Page Title Links** | Is linked correctly with the Usage Guidelines and Code Documentation?
+1.4 | **Page Metadata Links** | Is linked correctly with the Usage Guidelines and Code Documentation?
 
-
-### 2. Anatomy
-As a designer, I want to interact with a well-organized and cleanly built component anatomy to find and adjust elements as needed.[^2]
-
-Item | Type | Description
-:--- |:--- |:---
-2.1 | **Name** | Are layer names consistent with the specified component anatomy?
-2.2 | **Name** | Are layer names formatted as actual names in sentence case, not “Frame ###”?
-2.3 | **Name** | Are naming conventions applied, such as using space between (]-[) for layers?
-2.4 | **Name** | Are nested components named descriptively?
-2.5 | **Name** | Are layers shown or hidden appropriately, including layers within hidden layers?
-
-### 3. Color styles
-As a designer, the component applies colors via color styles and component-specific attributes in a manner consistent with design tokens.[^3]
+### 2. Composition
+As a designer, I want to[^2]
 
 Item | Type | Description
 :--- |:--- |:---
-3.1 | **Name** | Are 
-3.2 | **Name** | Are 
-3.3 | **Name** | Are 
-3.4 | **Name** | Are 
-3.5 | **Name** | Are 
+2.1 | **Name** | Are
 
-### 4. Text styles
-As a designer, the component applies system typography via text styles and component-specific overrides so that I don’t have to style text.[^4]
+### 3. Base/Default Component Anatomy
+As a designer, I want to[^3]
 
 Item | Type | Description
 :--- |:--- |:---
-4.1 | **Name** | Are 
-4.2 | **Name** | Are 
+3.1 | **Name** | Are
+
+### 4. Color styles
+As a designer, I want to[^4]
+
+Item | Type | Description
+:--- |:--- |:---
+4.1 | **Name** | Are
+
+### 5. Type styles
+As a designer, I want to[^5]
+
+Item | Type | Description
+:--- |:--- |:---
+5.1 | **Name** | Are
+
+### 6. Content
+As a designer, I want to[^6]
+
+Item | Type | Description
+:--- |:--- |:---
+6.1 | **Name** | Are
+
+### 7. Auto Layout
+As a designer, I want to[^7]
+
+Item | Type | Description
+:--- |:--- |:---
+7.1 | **Name** | Are
+
+### 8. Spacing Tokens
+As a designer, I want to[^8]
+
+Item | Type | Description
+:--- |:--- |:---
+8.1 | **Name** | Are
+
+### 9. Layer Properties
+As a designer, I want to[^9]
+
+Item | Type | Description
+:--- |:--- |:---
+9.1 | **Name** | Are
+
+### 10. Behaviors
+As a designer, I want to[^10]
+
+Item | Type | Description
+:--- |:--- |:---
+10.1 | **Name** | Are
+
 
 [^1]: My reference.
-[^2]: Every new line should be prefixed with 2 spaces.  
-  This allows you to have a footnote with multiple lines.
+[^2]: My reference.  
 [^3]: My reference.
+[^4]: My reference.
+[^5]: My reference.
+[^6]: My reference.
+[^7]: My reference.
+[^8]: My reference.
+[^9]: My reference.
+[^10]: My reference.
